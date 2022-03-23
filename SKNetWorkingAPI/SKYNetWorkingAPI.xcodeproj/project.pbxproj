@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		36F0A59227EB26CB000AF2EA /* SKNetWorkingAPI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SKNetWorkingAPI.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		36F0A59227EB26CB000AF2EA /* SKYNetWorkingAPI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SKYNetWorkingAPI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		36F0A59527EB26CB000AF2EA /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		36F0A59627EB26CB000AF2EA /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		36F0A59827EB26CB000AF2EA /* SceneDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SceneDelegate.h; sourceTree = "<group>"; };
@@ -45,7 +45,7 @@
 		36F0A58927EB26CB000AF2EA = {
 			isa = PBXGroup;
 			children = (
-				36F0A59427EB26CB000AF2EA /* SKNetWorkingAPI */,
+				36F0A59427EB26CB000AF2EA /* SKYNetWorkingAPI */,
 				36F0A59327EB26CB000AF2EA /* Products */,
 			);
 			sourceTree = "<group>";
@@ -53,12 +53,12 @@
 		36F0A59327EB26CB000AF2EA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				36F0A59227EB26CB000AF2EA /* SKNetWorkingAPI.app */,
+				36F0A59227EB26CB000AF2EA /* SKYNetWorkingAPI.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		36F0A59427EB26CB000AF2EA /* SKNetWorkingAPI */ = {
+		36F0A59427EB26CB000AF2EA /* SKYNetWorkingAPI */ = {
 			isa = PBXGroup;
 			children = (
 				36F0A59527EB26CB000AF2EA /* AppDelegate.h */,
@@ -73,15 +73,15 @@
 				36F0A5A627EB26CE000AF2EA /* Info.plist */,
 				36F0A5A727EB26CE000AF2EA /* main.m */,
 			);
-			path = SKNetWorkingAPI;
+			path = SKYNetWorkingAPI;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		36F0A59127EB26CB000AF2EA /* SKNetWorkingAPI */ = {
+		36F0A59127EB26CB000AF2EA /* SKYNetWorkingAPI */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 36F0A5AB27EB26CE000AF2EA /* Build configuration list for PBXNativeTarget "SKNetWorkingAPI" */;
+			buildConfigurationList = 36F0A5AB27EB26CE000AF2EA /* Build configuration list for PBXNativeTarget "SKYNetWorkingAPI" */;
 			buildPhases = (
 				36F0A58E27EB26CB000AF2EA /* Sources */,
 				36F0A58F27EB26CB000AF2EA /* Frameworks */,
@@ -91,9 +91,9 @@
 			);
 			dependencies = (
 			);
-			name = SKNetWorkingAPI;
+			name = SKYNetWorkingAPI;
 			productName = SKNetWorkingAPI;
-			productReference = 36F0A59227EB26CB000AF2EA /* SKNetWorkingAPI.app */;
+			productReference = 36F0A59227EB26CB000AF2EA /* SKYNetWorkingAPI.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -110,7 +110,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 36F0A58D27EB26CB000AF2EA /* Build configuration list for PBXProject "SKNetWorkingAPI" */;
+			buildConfigurationList = 36F0A58D27EB26CB000AF2EA /* Build configuration list for PBXProject "SKYNetWorkingAPI" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -123,7 +123,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				36F0A59127EB26CB000AF2EA /* SKNetWorkingAPI */,
+				36F0A59127EB26CB000AF2EA /* SKYNetWorkingAPI */,
 			);
 		};
 /* End PBXProject section */
@@ -344,7 +344,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		36F0A58D27EB26CB000AF2EA /* Build configuration list for PBXProject "SKNetWorkingAPI" */ = {
+		36F0A58D27EB26CB000AF2EA /* Build configuration list for PBXProject "SKYNetWorkingAPI" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				36F0A5A927EB26CE000AF2EA /* Debug */,
@@ -353,7 +353,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		36F0A5AB27EB26CE000AF2EA /* Build configuration list for PBXNativeTarget "SKNetWorkingAPI" */ = {
+		36F0A5AB27EB26CE000AF2EA /* Build configuration list for PBXNativeTarget "SKYNetWorkingAPI" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				36F0A5AC27EB26CE000AF2EA /* Debug */,
