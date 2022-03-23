@@ -26,5 +26,32 @@
     
 }
 
+- (UIStatusBarStyle)preferredStatusBarStyle {
+    // 这里设置横竖屏不同颜色的statusbar
+    // if (SKPlayerShared.isLandscape) {
+    //    return UIStatusBarStyleDefault;
+    // }
+    return UIStatusBarStyleLightContent;
+}
+//- (UIStatusBarStyle)preferredStatusBarStyle {
+//    // 这里设置横竖屏不同颜色的statusbar
+//    // if (SKPlayerShared.isLandscape) {
+//    //    return UIStatusBarStyleDefault;
+//    // }
+//    return UIStatusBarStyleLightContent;
+//}
+//
+//- (BOOL)prefersStatusBarHidden {
+////    return SKPlayerShared.isStatusBarHidden;
+//    return NO;
+//}
+
+- (void)didReceiveMemoryWarning {
+    [super didReceiveMemoryWarning];
+    // Dispose of any resources that can be recreated.
+}
+
+
+
 
 @end
