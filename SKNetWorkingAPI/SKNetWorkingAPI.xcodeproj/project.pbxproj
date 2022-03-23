@@ -14,6 +14,7 @@
 		36F0A5A227EB26CE000AF2EA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 36F0A5A127EB26CE000AF2EA /* Assets.xcassets */; };
 		36F0A5A527EB26CE000AF2EA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 36F0A5A327EB26CE000AF2EA /* LaunchScreen.storyboard */; };
 		36F0A5A827EB26CE000AF2EA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 36F0A5A727EB26CE000AF2EA /* main.m */; };
+		36F0A5B027EB2886000AF2EA /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 36F0A5AF27EB2886000AF2EA /* MainViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		36F0A5A427EB26CE000AF2EA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		36F0A5A627EB26CE000AF2EA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		36F0A5A727EB26CE000AF2EA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		36F0A5AE27EB2886000AF2EA /* MainViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
+		36F0A5AF27EB2886000AF2EA /* MainViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				36F0A59927EB26CB000AF2EA /* SceneDelegate.m */,
 				36F0A59B27EB26CB000AF2EA /* ViewController.h */,
 				36F0A59C27EB26CB000AF2EA /* ViewController.m */,
+				36F0A5AE27EB2886000AF2EA /* MainViewController.h */,
+				36F0A5AF27EB2886000AF2EA /* MainViewController.m */,
 				36F0A59E27EB26CB000AF2EA /* Main.storyboard */,
 				36F0A5A127EB26CE000AF2EA /* Assets.xcassets */,
 				36F0A5A327EB26CE000AF2EA /* LaunchScreen.storyboard */,
@@ -149,6 +154,7 @@
 				36F0A59D27EB26CB000AF2EA /* ViewController.m in Sources */,
 				36F0A59727EB26CB000AF2EA /* AppDelegate.m in Sources */,
 				36F0A5A827EB26CE000AF2EA /* main.m in Sources */,
+				36F0A5B027EB2886000AF2EA /* MainViewController.m in Sources */,
 				36F0A59A27EB26CB000AF2EA /* SceneDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
